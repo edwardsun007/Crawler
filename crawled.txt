@@ -1,0 +1,6 @@
+file:///C:/Users/Public/Documents/test/lectures.html
+file:///C:/Users/Public/Documents/test/syllabus.html
+file:///C:/Users/Public/Documents/test/CS21Ahome.html
+file:///C:/Users/Public/Documents/test/homework.html
+file:///C:/Users/Public/Documents/test/contact.html
+file:///C:/Users/Public/Documents/test/assignments.html
